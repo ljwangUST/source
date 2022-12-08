@@ -1,8 +1,8 @@
-publishdir = "public"
+publishdir = "docs"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "http://example.org/"
+baseurl = "https://ljwangUST.github.io/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Academic group name"
